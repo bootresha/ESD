@@ -1,0 +1,2 @@
+# ESD
+Eroge Screenshot Downloader
