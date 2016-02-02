@@ -14,7 +14,7 @@ using System.IO;
  * ->Create a separate thread for downloading
  * ->Change ways of downloading to make a list first before doing mass downloading
  * 
- * 
+ * Just testing
  */
 
 namespace ErogeGalleryMaker
